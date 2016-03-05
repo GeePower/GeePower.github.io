@@ -1,18 +1,26 @@
 $(document).ready(function(){
-  var playlist = [{
-      title: "Sleep Alone",
-      artist: "Eason Chan",
-      mp3: "http://net4.ccs.neu.edu/home/haonan/gpower/music/peni.mp3",
+    var playlist = [
+  {
+      title: "Hou Lai",
+      artist: "Liu ruoying",
+      mp3: "http://geepower.github.io/music/houlai.mp3",
       poster: "images/1.jpg"
-    },{
-      title:"Cro Magnon Man",
-      artist:"The Stark Palace",
-      mp3:"http://rm.sina.com.cn/wm/VZ2010050511043310440VK/music/MUSIC1005051622027270.mp3",
+  },
+  {
+      title: "Peini",
+      artist: "Eason Chan",
+      mp3: "http://geepower.github.io/music/peni.mp3",
+      poster: "images/2.jpg"
+  },
+  {
+      title:"Hello Tomorrow",
+      artist:"Milk & Coffee",
+      mp3: "http://geepower.github.io/music/hello-tomorrow.mp3",
       poster: "images/2.jpg"
     },{
       title:"Little Lucky",
 	  artist:"Tian",
-	  mp3: "http://net4.ccs.neu.edu/home/haonan/gpower/music/xiaoxingyun.mp3",
+	  mp3: "http://geepower.github.io/music/xiaoxingyun.mp3",
       poster: "images/3.jpg"
   }];
   
